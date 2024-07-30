@@ -1,0 +1,21 @@
+{
+    "helloworld": "こんにちは世界",
+    "explore": "探索",
+    "cart": "カート",
+    "profile": "プロフィール",
+    "search": "検索",
+    "furniture": "家具",
+    "beauty": "美容",
+    "grocery": "食料品",
+    "laptops": "ノートパソコン",
+    "allProduct": "すべての製品",
+    "home": "ホーム",
+    "logOut": "ログアウト",
+    "myDetails": "私の詳細",
+    "fullName": "フルネーム",
+    "address": "住所",
+    "phoneNumber": "電話番号",
+    "noProductsAvailable": "利用可能な商品はありません",
+    "category": "カテゴリー",
+    "cartEmpty": "カートは空です"
+}

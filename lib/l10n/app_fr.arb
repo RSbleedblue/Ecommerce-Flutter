@@ -1,0 +1,21 @@
+{
+    "helloworld": "Bonjour le monde",
+    "explore": "Explorer",
+    "cart": "Panier",
+    "profile": "Profil",
+    "search": "Recherche",
+    "furniture": "Meubles",
+    "beauty": "Beauté",
+    "grocery": "Épicerie",
+    "laptops": "Ordinateurs portables",
+    "allProduct": "Tous les produits",
+    "home": "Accueil",
+    "logOut": "Déconnexion",
+    "myDetails": "Mes détails",
+    "fullName": "Nom complet",
+    "address": "Adresse",
+    "phoneNumber": "Numéro de téléphone",
+    "noProductsAvailable": "Aucun produit disponible",
+    "category": "Catégorie",
+    "cartEmpty": "Votre panier est vide"
+}

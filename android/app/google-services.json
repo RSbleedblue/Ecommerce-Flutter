@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "1097830604360",
+    "project_id": "shopease-d649b",
+    "storage_bucket": "shopease-d649b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097830604360:android:3b4186b4fbe6b33bf4027d",
+        "android_client_info": {
+          "package_name": "com.credex.e"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD56AnLdI5ZuuupjGF_rbBRG0CYmXLsKz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097830604360:android:d06e23a0f7abfad3f4027d",
+        "android_client_info": {
+          "package_name": "com.credex.shopease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD56AnLdI5ZuuupjGF_rbBRG0CYmXLsKz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1097830604360:android:7cb48783727d2726f4027d",
+        "android_client_info": {
+          "package_name": "com.example.firebaseconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD56AnLdI5ZuuupjGF_rbBRG0CYmXLsKz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,21 @@
+{
+    "helloworld": "Hallo Welt",
+    "explore": "Erforschen",
+    "cart": "Warenkorb",
+    "profile": "Profil",
+    "search": "Suche",
+    "furniture": "Möbel",
+    "beauty": "Schönheit",
+    "grocery": "Lebensmittel",
+    "laptops": "Laptops",
+    "allProduct": "Alle Produkte",
+    "home": "Startseite",
+    "logOut": "Abmelden",
+    "myDetails": "Meine Details",
+    "fullName": "Vollständiger Name",
+    "address": "Adresse",
+    "phoneNumber": "Telefonnummer",
+    "noProductsAvailable": "Keine Produkte verfügbar",
+    "category": "Kategorie",
+    "cartEmpty": "Ihr Warenkorb ist leer"
+}

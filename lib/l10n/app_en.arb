@@ -1,0 +1,21 @@
+{
+    "helloworld" : "hello World",
+    "explore" : "Explore",
+    "cart" : "Cart",
+    "profile" : "Profile",
+    "search" : "Search",
+    "furniture" : "Furniture",
+    "beauty" : "Beauty",
+    "grocery" : "Grocery",
+    "laptops" : "Laptops",
+    "allProduct" : "All Products",
+    "home" : "Home",
+    "logOut" : "Log Out",
+    "myDetails" : "My Details",
+    "fullName" : "Fullname",
+    "address" : "Address",
+    "phoneNumber" : "Phone Number",
+    "noProductsAvailable" : "No Product Available",
+    "category" : "Category",
+    "cartEmpty" : "Your Cart is Empty"
+}

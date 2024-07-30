@@ -1,0 +1,21 @@
+{
+    "helloworld": "hola mundo",
+    "explore": "Explorar",
+    "cart": "Carro",
+    "profile": "Perfil",
+    "search": "Buscar",
+    "furniture": "Muebles",
+    "beauty": "Belleza",
+    "grocery": "Abarrotes",
+    "laptops": "Portátiles",
+    "allProduct": "Todos los Productos",
+    "home": "Inicio",
+    "logOut": "Cerrar Sesión",
+    "myDetails": "Mis Detalles",
+    "fullName": "Nombre Completo",
+    "address": "Dirección",
+    "phoneNumber": "Número de Teléfono",
+    "noProductsAvailable" : "No hay producto disponible",
+    "category" : "Categoría",
+    "cartEmpty" : "Tu carrito esta vacío"
+}
